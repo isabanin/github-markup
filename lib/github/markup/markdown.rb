@@ -20,7 +20,8 @@ module GitHub
           fenced_code_blocks: true,
           strikethrough:      true,
           underline:          true,
-          highlight:          true
+          highlight:          true,
+          no_intra_emphasis:  true
         }
       end
     end
